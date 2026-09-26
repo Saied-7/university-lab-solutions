@@ -42,14 +42,6 @@ Each semester will have its own folder, and each lab will be organized separatel
 
 I will continuously update this repository by adding each completed lab and its solutions.
 
-### Semester 2
-
-* [ ] Lab 01
-* [ ] Lab 02
-* [ ] Lab 03
-* [ ] Lab 04
-* [ ] More labs will be added gradually...
-
 ## 💻 Languages & Technologies
 
 The technologies used in this repository may include:
@@ -74,5 +66,4 @@ As I progress through university, I will add new labs, assignments, projects, an
 ---
 
 **Started:** 2nd Semester
-**Status:** 🟢 In Progress
 **Maintained by:** Mohammad Saidul Hoque
