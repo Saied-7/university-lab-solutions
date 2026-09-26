@@ -1,3 +1,3 @@
-# Lab 01
+# Lab 
 
 Solutions for University Lab second semester.
