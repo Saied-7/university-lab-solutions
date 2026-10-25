@@ -4,7 +4,7 @@ int main() {
     double n;
     long long c;
     scanf("%lf", &n);
-    c = (long long)(n * 100 + 0.5);  // cents এ রূপান্তর (precision error এড়াতে)
+    c = (long long)(n * 100 + 0.5); 
 
     printf("NOTAS:\n");
     printf("%lld nota(s) de R$ 100.00\n", c / 10000); c %= 10000;
